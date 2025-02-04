@@ -13,6 +13,8 @@ The Modal component can take up to 3 props:
 - content: provide the desired content of the modal
 - buttonRef: provide the ref of the button used to open the modal, this one is required
 
+To close the modal, you can either click on the given close button or click outside of the modal.
+
 ## Example
 Here is a simple example of modal_react being used
 
