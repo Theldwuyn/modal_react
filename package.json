@@ -1,0 +1,19 @@
+{
+  "name": "@guillaume.a/modal_react",
+  "version": "1.0.0",
+  "description": "simple modal component for react application",
+  "main": "Modal.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theldwuyn/modal_react.git"
+  },
+  "author": "guillaumeA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Theldwuyn/modal_react/issues"
+  },
+  "homepage": "https://github.com/Theldwuyn/modal_react#readme"
+}
