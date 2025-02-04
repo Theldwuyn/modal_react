@@ -1,6 +1,6 @@
 {
   "name": "@guillaume.a/modal_react",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "simple modal component for react application",
   "main": "Modal.jsx",
   "scripts": {

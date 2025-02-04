@@ -1,0 +1,1 @@
+declare module '@guillaume.a/modal_react/Modal';

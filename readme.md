@@ -20,7 +20,7 @@ Here is a simple example of modal_react being used
 
 ```javascript
 import { useRef } from 'react';
-import Modal from 'modal_react';
+import Modal from '@guillaume.a/modal_react';
 
 function Example() {
   const buttonRef = useRef(null);
