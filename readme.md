@@ -3,8 +3,8 @@
 ## Installation
 
 ```bash
-$ npm install modal_react
-$ yarn add modal_react
+$ npm install @guillaume.a/modal_react
+$ yarn add @guillaume.a/modal_react
 ```
 
 ## Usage
