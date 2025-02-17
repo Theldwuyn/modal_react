@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types';
 import { useEffect, useRef, useState } from 'react';
 import closeImg from './close.png';
 
@@ -44,11 +43,5 @@ function Modal({ title, content, buttonRef }) {
     </div>
   );
 }
-
-Modal.propTypes = {
-  title: PropTypes.string,
-  content: PropTypes.string,
-  buttonRef: PropTypes.object.isRequired,
-};
 
 export default Modal;

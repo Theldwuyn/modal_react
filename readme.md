@@ -6,6 +6,9 @@
 $ npm install @guillaume.a/modal_react
 $ yarn add @guillaume.a/modal_react
 ```
+Node version: 23.3.0
+Npm version: 10.9.0
+Yarn version: 1.22.22
 
 ## Usage
 The Modal component can take up to 3 props:
@@ -32,3 +35,7 @@ function Example() {
   );
 }
 ```
+
+## Recommended text editor
+
+I personnaly recommend using VSCode editor
